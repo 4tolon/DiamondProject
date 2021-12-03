@@ -1,0 +1,2 @@
+# DiamondProject
+A Kaggle competition 
